@@ -1,0 +1,282 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tipr",
+      "discription": "Full Sleeve Solid UniSex Hoodies",
+      "price": 400,
+      "imageurl": "https://cdn11.bigcommerce.com/s-1js1zluvaj/images/stencil/1280x1280/products/46158/169704/Mens-Hoodies-and-Sweatshirts-Oversized-for-Spring-Autumn-Men-Hip-Hop-Hooded-Hoodies-Men-Blue-White__82762.1563421670.jpg?c=2"
+    },
+    {
+      "id": 2,
+      "name": "Alan Jones",
+      "discription": "Full Sleeve Solid Men Hoodies",
+      "price": 550,
+      "imageurl": "https://cf.shopee.com.my/file/8586d39f277aa5efe93fe6d2aceb793e"
+    },
+    {
+      "id": 3,
+      "name": "Campus",
+      "discription": "Full Sleeve Fitable UniSex Hoodies",
+      "price": 700,
+      "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smartees",
+      "discription": "Full Sleeve Good Men Hoodies",
+      "price": 800,
+      "imageurl": "https://i.pinimg.com/originals/02/bc/eb/02bceb3909b7602d8d21ca247280e6d1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ADRO",
+      "discription": "Full Sleeve Hoodies Combo set",
+      "price": 900,
+      "imageurl": "https://i2.wp.com/ecollecxion.co.uk/wp-content/uploads/2020/07/Mens-Hoodies-sweatshirt-Mazda-Car-Logo-Printed-Spring-Autumn-Hoodies-Pants-2Pcs-Sporting-suit-Fleece-Warm.jpg?fit=748%2C727&ssl=1"
+    },
+    {
+      "id": 6,
+      "name": "Genius",
+      "discription": "Full Sleeve Fit And Fine Hoodies",
+      "price": 950,
+      "imageurl": "https://ae01.alicdn.com/kf/Hdf6c2ff6c2734e95ab866feb859418a3c/SingleRoad-Mens-Hoodies-Men-Colorblock-Casual-Patchwork-Hoodie-Man-Japanese-Streetwear-Hip-Hop-Male-Yellow-Hoodie.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Goodtry",
+      "discription": "Full Sleeve Men/Women Hoodies",
+      "price": 850,
+      "imageurl": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/98/531331/1.jpg?7898"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Tipr",
+        "discription": "Full Sleeve Solid UniSex Hoodies",
+        "price": 400,
+        "imageurl": "https://cdn11.bigcommerce.com/s-1js1zluvaj/images/stencil/1280x1280/products/46158/169704/Mens-Hoodies-and-Sweatshirts-Oversized-for-Spring-Autumn-Men-Hip-Hop-Hooded-Hoodies-Men-Blue-White__82762.1563421670.jpg?c=2"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Alan Jones",
+        "discription": "Full Sleeve Solid Men Hoodies",
+        "price": 550,
+        "imageurl": "https://cf.shopee.com.my/file/8586d39f277aa5efe93fe6d2aceb793e"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Alan Jones",
+        "discription": "Full Sleeve Solid Men Hoodies",
+        "price": 550,
+        "imageurl": "https://cf.shopee.com.my/file/8586d39f277aa5efe93fe6d2aceb793e"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Tipr",
+        "discription": "Full Sleeve Solid UniSex Hoodies",
+        "price": 400,
+        "imageurl": "https://cdn11.bigcommerce.com/s-1js1zluvaj/images/stencil/1280x1280/products/46158/169704/Mens-Hoodies-and-Sweatshirts-Oversized-for-Spring-Autumn-Men-Hip-Hop-Hooded-Hoodies-Men-Blue-White__82762.1563421670.jpg?c=2"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Campus",
+        "discription": "Full Sleeve Fitable UniSex Hoodies",
+        "price": 700,
+        "imageurl": "https://waliicorners.com/wp-content/uploads/2019/11/SingleRoad-Mens-Hoodies-Autumn-Sweatshirts-Male-Hip-Hop-Japanese-Streetwear-Harajuku-Print-Black-Hoodie-Sweatshirt-Men.jpg"
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "Genius",
+        "discription": "Full Sleeve Fit And Fine Hoodies",
+        "price": 950,
+        "imageurl": "https://ae01.alicdn.com/kf/Hdf6c2ff6c2734e95ab866feb859418a3c/SingleRoad-Mens-Hoodies-Men-Colorblock-Casual-Patchwork-Hoodie-Man-Japanese-Streetwear-Hip-Hop-Male-Yellow-Hoodie.jpg"
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "ADRO",
+        "discription": "Full Sleeve Hoodies Combo set",
+        "price": 900,
+        "imageurl": "https://i2.wp.com/ecollecxion.co.uk/wp-content/uploads/2020/07/Mens-Hoodies-sweatshirt-Mazda-Car-Logo-Printed-Spring-Autumn-Hoodies-Pants-2Pcs-Sporting-suit-Fleece-Warm.jpg?fit=748%2C727&ssl=1"
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 7,
+        "name": "Goodtry",
+        "discription": "Full Sleeve Men/Women Hoodies",
+        "price": 850,
+        "imageurl": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/98/531331/1.jpg?7898"
+      },
+      "id": 22
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

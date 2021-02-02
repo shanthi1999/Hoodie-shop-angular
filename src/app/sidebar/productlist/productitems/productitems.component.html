@@ -1,0 +1,41 @@
+<div class="card mb-4 shadow-sm">
+  <img class="bd-placeholder-img card-img-top p-2" width="80%" height="225"
+   [src]="productItem.imageurl"/>
+  <div class="card-body">
+   <p class="card-text">
+     <strong>{{ productItem.price | currency :'INR'}}</strong>
+    </p>
+        <h5 class="card-text">{{productItem.name}}</h5>
+        <p class="card-text">{{ productItem.discription | slice: 0:80 }}...</p>
+          <div class="d-flex justify-content-between align-items-center">
+            <div class="btn-group">
+             <button 
+             type="button" 
+             class="btn btn-sm btn-primary"
+             (click)="handleAddToCart()">       
+             Add to Cart</button>
+             <button type="button" class="btn btn-sm btn-outline-info">view Details</button>
+            </div>
+         
+  </div>
+</div>
+</div>
+
+
+
+<!--<div class="card mb-4 shadow-sm">
+    <img class="bd-placeholder-img card-img-top" width="70%" height="225" src="https://images-na.ssl-images-amazon.com/images/I/61DshtkZSKL._AC_UY445_.jpg"/>
+    <div class="card-body">
+     <p class="card-text">
+       <strong>{{500 | currency:'INR'}}</strong>
+      </p>
+          <p class="card-text">This Hoodies best for wear and looks good too</p>
+            <div class="d-flex justify-content-between align-items-center">
+              <div class="btn-group">
+               <button type="button" class="btn btn-sm btn-primary">Add to Cart</button>
+               <button type="button" class="btn btn-sm btn-outline-info">view Details</button>
+              </div>
+           
+    </div>
+</div>
+</div>-->
